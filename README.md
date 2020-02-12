@@ -21,3 +21,9 @@ Now you can explore the results in your browser at:
 ```
 python3 main.py --alpha=10 --exp_name=test --gpu=0
 ```
+
+### Required packages:
+Tested with libraries located in requirements.txt. To install:
+```
+pip install -r requirements.txt
+```
